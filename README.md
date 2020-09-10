@@ -23,13 +23,13 @@ A windows CLI program to crack WIFI password using brute force.
 ## Screenshots
 Some screenshots of the program:-
 - *Statup Page*<br />
-  ![Statup Page](https://github.com/SKR301/Wifi-Password-Cracker-BruteForce/blob/tree/master/ScreenShots/enterName.png)
+  ![Statup Page](https://github.com/SKR301/Wifi-Password-Cracker-BruteForce/blob/master/ScreenShots/enterName.png)
 - *Trying*<br />
-  ![Trying](https://github.com/SKR301/Wifi-Password-Cracker-BruteForce/blob/tree/master/ScreenShots/trying.png)
+  ![Trying](https://github.com/SKR301/Wifi-Password-Cracker-BruteForce/blob/master/ScreenShots/trying.png)
 - *Connected*<br />
-  ![Connected](https://github.com/SKR301/Wifi-Password-Cracker-BruteForce/blob/tree/master/ScreenShots/connected.png)
+  ![Connected](https://github.com/SKR301/Wifi-Password-Cracker-BruteForce/blob/master/ScreenShots/connected.png)
 - *Not Connected*<br />
-  ![Not Connected](https://github.com/SKR301/Wifi-Password-Cracker-BruteForce/blob/tree/master/ScreenShots/notConnected.png)
+  ![Not Connected](https://github.com/SKR301/Wifi-Password-Cracker-BruteForce/blob/master/ScreenShots/notConnected.png)
   
 
 ## Contributors
