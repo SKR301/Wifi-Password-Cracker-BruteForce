@@ -1,4 +1,4 @@
-# TheLuckyDice
+# WifiPasswordCrackerBruteForce
 A windows CLI program to crack WIFI password using brute force.
   
 ## Table of Content
