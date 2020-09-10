@@ -15,7 +15,7 @@ A windows CLI program to crack WIFI password using brute force.
 ### Using .exe
 1. Download the `wifiCracker.exe` file from the repository.
 2. Create `passwordList.txt` file is the same location.
-3. Fill the `passwordList.txt` file with the possible passwords (each one in new line).
+3. Fill the `passwordList.txt` file with the possible **passwords** *(each one in new line)*.
 4. Execute the `wifiCracker.exe`.
 5. Enter the **Wifi name** you want to crack.
 6. Hit enter.
